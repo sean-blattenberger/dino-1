@@ -1,0 +1,4 @@
+{
+  "baseUrl": "https://dino-1.herokuapp.com/",
+  "integrationFolder": "tests"
+}

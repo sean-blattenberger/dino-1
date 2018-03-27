@@ -25,3 +25,4 @@
 #### Deployed Link
 https://dino-1.herokuapp.com/
 #### Framework of choice
+React.js

@@ -1,25 +1,10 @@
 import React, { Component } from "react";
 import "../App.css";
-// import listings from "../listings.json";
-import dinoLogo from "../assets/g-dino.png";
 import Jobs from "../components/Jobs";
 import JobForm from "../components/JobForm";
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 
-const Header = () => {
-  return (
-    <header>
-      <img src={dinoLogo} alt="Dino Logo" />
-    </header>
-  );
-};
-
-const Footer = () => {
-  return (
-    <footer>
-      <small>Copyright 2018</small>
-    </footer>
-  );
-};
 
 class App extends Component {
   state = {
